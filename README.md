@@ -21,3 +21,6 @@ LCI databases:
 Results:
 - pickle files for fast result analysis without rerunning everything in the script
 - Excel files for Monte Carlo simulation results and global sensitivity analysis results
+
+Supporting Information:
+- pdf file accompanying the article with additional figures, tables and method explanations
